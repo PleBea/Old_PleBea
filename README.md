@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=KaliLinux&logoColor=white"/>
   </div>
   <br/>
-  <div align="left">
+  <div align="center">
     <div>
       <h3>💡 My Most Used Language 💡</h3>
       <a href="https://github.com/plebea">
@@ -32,7 +32,7 @@
     </div>
     <div>
       <a href="https://github.com/plebea">
-      <img align='right' src="https://github-readme-stats.vercel.app/api?username=plebea&show_icons=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=plebea&show_icons=true">
       </a>
     </div>
   </div>
