@@ -1,6 +1,7 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=white&height=230&section=header&text=💻%20SeongBin&fontColor=FFFFFF">
+  <a href="https://github.com/plebea">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=white&height=230&section=header&text=💻%20SeongBin&fontColor=FFFFFF">
+  </a>
 
   <div>
     <h1>⚒️ Tech Stack ⚒️</h1>
